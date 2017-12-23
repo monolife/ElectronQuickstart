@@ -1,0 +1,22 @@
+{
+  "name": "electronquickstart",
+  "version": "1.0.0",
+  "description": "Learning Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monolife/ElectronQuickstart.git"
+  },
+  "author": "A Ducao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monolife/ElectronQuickstart/issues"
+  },
+  "homepage": "https://github.com/monolife/ElectronQuickstart#readme",
+  "devDependencies": {
+    "electron": "1.7.10"
+  }
+}
